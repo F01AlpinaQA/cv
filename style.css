@@ -1,0 +1,42 @@
+body{
+
+            background-color: #282828;
+}
+.title{
+	color: #dfdfdf;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 70px;
+	font-family: helvetica;
+}
+.title:hover {
+	color:#ffffff;
+}
+.aboutme{
+	color:#dfdfdf;
+	text-align: center;
+	font-size: 34px;
+	font-family: helvetica;
+}
+.aboutme:hover{
+	color:#ffffff;
+}
+.foto{
+	text-align: center;
+}
+.contacts{
+	color:#dfdfdf;
+	text-align: center;
+	font-size: 30px;
+	font-family: helvetica;
+}
+.contacts:hover{
+	color:#ffffff;
+}
+button{
+	font-size: 28px;
+	font-family: helvetica;
+}
+div{
+	text-align: center;
+}
